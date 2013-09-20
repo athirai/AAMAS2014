@@ -1,0 +1,58 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdftex 2013.8.27)  27 AUG 2013 10:49
+entering extended mode
+**C:/Program*Files*(x86)/WinEdt*Team/WinEdt*6/Exec/PDF/PDFCloseDoc.edt
+("C:/Program Files (x86)/WinEdt Team/WinEdt 6/Exec/PDF/PDFCloseDoc.edt"
+Overfull \hbox (61.76497pt too wide) in paragraph at lines 15--21
+[]\tenrm FindInString(`IfOK(!"JMP('adobe')"); Find-In-String(`IfOK(!"JMP('adobe
+')"); Find-In-String(`IfOK(!"JMP('adobe')"); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm F
+.\tenrm i
+.\tenrm n
+.\tenrm d
+.etc.
+
+
+Overfull \hbox (42.05203pt too wide) in paragraph at lines 25--29
+[]\tenrm :PDFX:: ==========================================================|
+
+\hbox(6.83331+0.0)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm :
+.\tenrm P
+.\tenrm D
+.\tenrm F
+.etc.
+
+
+Overfull \hbox (31.63535pt too wide) in paragraph at lines 30--31
+[]\tenrm :adobe:: ========================================================= |
+
+\hbox(6.94444+0.0)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm :
+.\tenrm a
+.\tenrm d
+.\tenrm o
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.38 ...om/asn/acrobat/sdk/reg/Documentation/Core_
+                                                  API/CoreAPIReference.pdf
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.38 ...om/asn/acrobat/sdk/reg/Documentation/Core_
+                                                  API/CoreAPIReference.pdf
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

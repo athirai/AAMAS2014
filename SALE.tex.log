@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdftex 2012.5.7)  26 AUG 2013 09:37
+entering extended mode
+**D:/Karthic*Kumar/Dropbox/Athirai/AAMAS-SALE/AAMAS-2014/SALE.tex.bak
+("D:/Karthic Kumar/Dropbox/Athirai/AAMAS-SALE/AAMAS-2014/SALE.tex.bak"
+! Undefined control sequence.
+l.1 \documentclass
+                  {aamas2013}
+? 
+! Emergency stop.
+l.1 \documentclass
+                  {aamas2013}
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
